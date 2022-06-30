@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ETLAVANCE2", "ETLAVANCE2\ETLAVANCE2.dtproj", "{196159BA-388D-426C-B40D-FB8D84720EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196159BA-388D-426C-B40D-FB8D84720EC8}.Development|Default.ActiveCfg = Development
+		{196159BA-388D-426C-B40D-FB8D84720EC8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {792B236B-0F0E-4448-9692-3E6AF123BFBC}
+	EndGlobalSection
+EndGlobal
